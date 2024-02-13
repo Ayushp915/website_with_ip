@@ -1,0 +1,15 @@
+/* Default styling for stroke (when not in dark mode) */
+path {
+  stroke: black;  /* Default stroke color */
+  /* ... other styles ... */
+}
+
+.path {
+  fill:white; /* Initial color for all paths */
+} 
+
+
+.highlight {
+  fill: blue; /* Color for highlighted paths */
+}
+
